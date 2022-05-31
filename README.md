@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Solwan99](github.com/Solwan99)
 
-- 💬 Ask me about **Embedded C, AUTOSAR software architecture**
+- 💬 Ask me about **Software Engineering, Embedded C, AUTOSAR software architecture, Embedded software development, Misra-C, Database design, SQL, SDLC, Software testing, Java and C.**
 
 - 📫 How to reach me **solwan.shokry@gmail.com**
 
