@@ -1,8 +1,5 @@
-Hi, I'm Solwan Shokry. I'm a highly organized and hard-working self-driven senior Computer Systems Engineering Student. Interested in the
-Embedded Automotive industry, and looking for a responsible position to gain practical experience and secure a responsible career opportunity to fully utilize 
-my training and skills, while making a significant contribution to the success of the company.
 <h1 align="center">Hi 👋, I'm Solwan Shokry</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A highly organized and hard-working self-driven senior Computer Systems Engineering Student. Interested in the Software development , and looking for a responsible position to gain practical experience and secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
